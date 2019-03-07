@@ -1,0 +1,7 @@
+#######
+*.log
+*.sql
+*.tar
+*.tar.gz
+*.sql.gz
+*.mysql.php
